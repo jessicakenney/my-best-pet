@@ -10,7 +10,7 @@ _Proper use and spacing of HTML markup block and inline elements. Some of the it
 
 ## Setup/Installation Requirements
 
-* _Create a local version of my-best-pet
+* _Create a local version of my-best-pet_
 * _clone repository from github at url: https://github.com/jessicakenney/my-best-pet.git_
 * _launch HTML file in the browser of choice :_
 * _git clone https://github.com/jessicakenney/my-best-pet.git_
