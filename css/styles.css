@@ -1,3 +1,21 @@
 h1 {
   color: red;
 }
+.lightbackground{
+  color: black;
+  background-color: white;
+}
+.darkbackground{
+  color: white;
+  background-color: black;
+}
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+#chicken {
+  display:none;
+}
